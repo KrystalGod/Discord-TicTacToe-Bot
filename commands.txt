@@ -1,0 +1,2 @@
+This is the list of commands usable at the moment:
+``--profile - Shows information about selected discord user.``
